@@ -416,7 +416,10 @@
     #cta .btn {
       width: 80%;
     }
-
+    
+    .btn-contact {
+      text-decoration: none; /* Remove o sublinhado */
+  }
     
   }
 
