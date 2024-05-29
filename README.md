@@ -1,4 +1,4 @@
-# Projeto 02: Site para Coleta de Leads da Clínica Renovar
+# Site para Coleta de Leads da Clínica Renovar
 
 ## Link do Projeto
 [Site para Coleta de Leads da Clínica Renovar](https://www.clinicarennovar.com)
